@@ -6,6 +6,7 @@
 - C
 - C++
 - Data Structures & Algorithms
+- HTML
 
 ## Currently Learning
 - Software Development
