@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mehreen Simin 👋
 
-<!--
-**mehreensimin86/mehreensimin86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at Bangladesh University of Business and Technology 
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Software Development
+- Problem Solving
+- Git & GitHub
+
+## Connect
+- Email: mehreensimin86@gmail.com
+  
